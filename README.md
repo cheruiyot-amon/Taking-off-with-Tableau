@@ -16,7 +16,7 @@ Be careful when using various Fit options. If you are using a dashboard with a s
 6. Select the Sales size legend by clicking it. Use the Remove UI element to remove the legend from the dashboard.
 
 7. Select the Profit color legend by clicking it. Use the grip to drag the legend, and place it under the map.
- # The Worsheets created:
+ # The Worksheets created:
  # 1.Sales by Department worksheet built
  # 2.Bar Chart (two levels) worksheet updated
  # 3.Bar Chart (stacked) worksheet updated
