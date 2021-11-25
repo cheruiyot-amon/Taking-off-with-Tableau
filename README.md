@@ -16,3 +16,15 @@ Be careful when using various Fit options. If you are using a dashboard with a s
 6. Select the Sales size legend by clicking it. Use the Remove UI element to remove the legend from the dashboard.
 
 7. Select the Profit color legend by clicking it. Use the grip to drag the legend, and place it under the map.
+8. # The Worsheets created:
+9. # 1.Sales by Department worksheet built
+10. # 2.Bar Chart (two levels) worksheet updated
+11. # 3.Bar Chart (stacked) worksheet updated
+12. # 4.Sales over time worksheet built
+13. # 5.Sales over time (overlapping lines) worksheet updated
+14. # 6.Sales over time (multiple rows) worksheet updated
+15. # 7.Sales by State worksheet built
+16. # 8.Sales by Postal Code worksheet built
+17. # 9.Density of Orders worksheet built
+18. # 10.Show Me worksheet built
+19. # 11.Superstore Sales dashboard built
